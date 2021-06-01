@@ -1,0 +1,15 @@
+{
+	"short_name": "Tesla Clone",
+	"name": "Tesla Clone - Nitin Chakraborty",
+	"icons": [
+		{
+			"src": "Favicon.ico",
+			"sizes": "32x32",
+			"type": "image/x-icon"
+		}
+	],
+	"start_url": ".",
+	"display": "standalone",
+	"theme_color": "#000000",
+	"background_color": "#ffffff"
+}
